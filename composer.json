@@ -1,14 +1,14 @@
 {
-    "name": "larasync/aliexpress",
+    "name": "kps/aliexpress",
     "authors": [
         {
-            "name": "Aissa Aouli",
-            "email": "aissa.aouli@gmail.com"
+            "name": "Kps",
+            "email": "devops@kpsport.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Larasync\\Aliexpress\\": "src/"
+            "Kps\\Aliexpress\\": "src/"
         },
 	"files": ["src/TopSdk.php"]
     },
